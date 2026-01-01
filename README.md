@@ -1,4 +1,6 @@
 This project focuses on the automated detection of insomnia by analyzing EEG (Electroencephalogram) spectral data. By utilizing machine learning techniques, the system identifies physiological patterns in sleep-related frequency bands to classify individuals as either having insomnia or being healthy controls.
+
+
 ------Technical Stack--------
 
 Programming Language: Python
